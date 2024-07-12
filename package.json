@@ -1,0 +1,15 @@
+{
+  "name": "module_9_nxamth631_pt2405_a_pearl-mthombeni_sdf09-1",
+  "version": "1.0.0",
+  "description": "Create a responsive footer for a website using Tailwind CSS. This project aims to enhance your CSS skills, focusing on responsive design and the utility-first approach of Tailwind CSS.",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier-plugin-tailwindcss": "^0.6.5"
+  }
+}
